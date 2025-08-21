@@ -18,19 +18,19 @@ My work spans command-line tools, cross-platform applications, machine learning 
 
 ## Projects
 
-- [MyCalc](https://github.com/WINEEL/MyCalc) – Command-line calculator in C simulating a Python REPL with advanced math support  
+- [MyCalc](https://github.com/WINEEL/MyCalc) &rarr; Command-line calculator in C simulating a Python REPL with advanced math support  
 
-- [PIP-Updater](https://github.com/WINEEL/PIP-Updater) – Python CLI tool to update pip and installed packages across platforms  
+- [PIP-Updater](https://github.com/WINEEL/PIP-Updater) &rarr; Python CLI tool to update pip and installed packages across platforms  
 
-- [QuickBill](https://github.com/WINEEL/QuickBill) – C-based shopping billing system with admin & user modules, CSV product management, and cross-platform Makefile  
+- [QuickBill](https://github.com/WINEEL/QuickBill) &rarr; C-based shopping billing system with admin & user modules, CSV product management, and cross-platform Makefile  
 
-- [GardenSim](https://github.com/WINEEL/GardenSim) – JavaFX garden simulator applying OOADP with weather, seasons, pests, and survivability tests  
+- [GardenSim](https://github.com/WINEEL/GardenSim) &rarr; JavaFX garden simulator applying OOADP with weather, seasons, pests, and survivability tests  
 
-- [SmartRecs](https://github.com/WINEEL/SmartRecs) – Hybrid movie recommendation system combining content-based and collaborative filtering  
+- [SmartRecs](https://github.com/WINEEL/SmartRecs) &rarr; Hybrid movie recommendation system combining content-based and collaborative filtering  
 
-- Blockchain Vaccine Safety System – Blockchain-based vaccine tracking and verification (in progress of updating to GitHub)  
+- Blockchain Vaccine Safety System &rarr; Blockchain-based vaccine tracking and verification (in progress of updating to GitHub)  
 
-- Certificate-less Data Integrity Checker – Web-based secure group data verification tool (in progress of updating to GitHub)  
+- Certificate-less Data Integrity Checker &rarr; Web-based secure group data verification tool (in progress of updating to GitHub)  
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/wineel/)  
