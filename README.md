@@ -35,3 +35,5 @@ My work spans command-line tools, cross-platform applications, machine learning 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/wineel/)  
 - [Instagram](https://www.instagram.com/wineel_10_/)  
+- [Facebook](https://www.facebook.com/wineel10)
+- [X](https://x.com/wineel_10_)
