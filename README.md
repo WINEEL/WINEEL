@@ -1,39 +1,87 @@
 # Wineel Wilson Dasari
 
-Developer passionate about building impactful software projects across C, C++, Java, Python, and Web Technologies. Experienced in full-stack development, databases, and frameworks like Django, Flask, React, and Flutter.  
+MS CS at Santa Clara University. I build practical software across web, systems, and ML. I focus on reliability, security, and clear docs. Comfortable in C, C++, Java, Python, and modern web stacks. I like small tools that solve real problems and grow into useful products.
 
-My work spans command-line tools, cross-platform applications, machine learning systems, and secure data management. I focus on creating scalable, reliable, and secure solutions while continuously learning and collaborating on innovative projects.  
 
-## Skills
+## Quick highlights
 
-**Programming Languages & Frameworks:** Python, Java, C, C++, HTML, CSS, JavaScript, Django, Flask, Flutter, React  
+- NVIDIA Developer Hackathon: built an agentic **AI Career Coach** that parses resumes, critiques strengths and gaps with NVIDIA Nemotron on NIM, fetches live roles through MCP, and runs with one command on FastAPI. Functional demo in under 2 hours.
+- **SmartRecs** hybrid movie recommender using IMDb datasets. TF-IDF content similarity plus SVD collaborative filtering with genre awareness.
+- **QuickBill** and **MyCalc** in C. QuickBill handles CSV product management and billing. MyCalc behaves like a Python REPL with BODMAS, exponentiation, and nested parentheses.
+- **GardenSim** in JavaFX applying OOADP with seasons, weather, pests, sensors, and survivability tests.
 
-**Databases & Backend Technologies:** SQLite, SQL, PostgreSQL, SQLAlchemy, Firebase  
 
-**Development Tools & Platforms:** VS Code, GitHub, Git, Postman, Visual Studio, Jupyter Notebook  
+## Tech stack
 
-**Software Engineering & System Design:** OOP, MVC Architecture, REST APIs, Authentication, Web API Design, Version Control  
+**Programming:** Python, Java, C, C++, HTML, CSS, JavaScript  
+**Frameworks:** Django, Flask, FastAPI, React, Flutter  
+**Databases:** SQLite, PostgreSQL, SQL, SQLAlchemy, Firebase  
+**Tools:** VS Code, Git, GitHub, Postman, Jupyter Notebook, VirtualBox  
+**Concepts:** OOP, MVC, REST APIs, Authentication, Web API Design, Version Control, DSA, Operating Systems, Machine Learning, Cryptography, Computer Networks, Database Systems, Web Technologies, Software Engineering
 
-**Academic Proficiency Areas:** Data Structures & Algorithms, Computer Architecture, Operating Systems, Advanced OS, Machine Learning, Cryptography & Network Security, Computer Networks, Database Systems, Web Technologies, Software Engineering  
 
-## Projects
+## Featured projects
 
-- [MyCalc](https://github.com/WINEEL/MyCalc) &rarr; Command-line calculator in C simulating a Python REPL with advanced math support  
+- **[AI Career Coach](https://github.com/SCU-2025-Oct/coach)** &rarr; Agentic resume coach from the NVIDIA hackathon. Parses PDF and DOCX, generates measurable edits with Nemotron on NIM, fetches live roles via MCP, and serves a minimal FastAPI web UI. One command local run via `dev.py`.  
 
-- [PIP-Updater](https://github.com/WINEEL/PIP-Updater) &rarr; Python CLI tool to update pip and installed packages across platforms  
+- **[SmartRecs](https://github.com/WINEEL/SmartRecs)** &rarr; Hybrid movie recommender on IMDb datasets. TF-IDF content similarity plus SVD collaborative filtering with genre awareness.  
 
-- [QuickBill](https://github.com/WINEEL/QuickBill) &rarr; C-based shopping billing system with admin & user modules, CSV product management, and cross-platform Makefile  
+- **[QuickBill](https://github.com/WINEEL/QuickBill)** &rarr; C billing system with admin and biller modules, CSV product management, GST and discounts, and cross platform Makefile.  
 
-- [GardenSim](https://github.com/WINEEL/GardenSim) &rarr; JavaFX garden simulator applying OOADP with weather, seasons, pests, and survivability tests  
+- **[MyCalc](https://github.com/WINEEL/MyCalc)** &rarr; C command line calculator that behaves like a Python REPL with BODMAS, exponentiation, and nested parentheses.  
 
-- [SmartRecs](https://github.com/WINEEL/SmartRecs) &rarr; Hybrid movie recommendation system combining content-based and collaborative filtering  
+- **[PIP-Updater](https://github.com/WINEEL/PIP-Updater)** &rarr; Python CLI that updates pip packages with clean logs.  
 
-- Blockchain Vaccine Safety System &rarr; Blockchain-based vaccine tracking and verification (in progress of updating to GitHub)  
+- **[GardenSim](https://github.com/WINEEL/GardenSim)** &rarr; JavaFX garden simulator applying OOADP with weather, seasons, pests, sensors, and survivability tests.  
 
-- Certificate-less Data Integrity Checker &rarr; Web-based secure group data verification tool (in progress of updating to GitHub)  
+<details>
+<summary><strong>More projects </strong>(click to expand)</summary>
+
+- **Blockchain Vaccine Safety System** &rarr; Blockchain backed vaccine tracking and verification. Repo in progress.  
+- **Certificate-less Data Integrity Checker** &rarr; Web tool for secure group data verification. Repo in progress.  
+- **Chrome Translator Extension** &rarr; Translate selected text with a model download flow and per page language settings. Repo in progress.
+
+</details>
+
+<details>
+<summary><strong>Role based project map</strong> (click to expand)</summary>
+
+| Role | Projects |
+| --- | --- |
+| Software Engineering and Full Stack | QuickBill, MyCalc, PIP-Updater, GardenSim, Chrome Translator Extension |
+| Machine Learning and Data | SmartRecs, AI Career Coach, ML coursework |
+| Systems and Cybersecurity | Advanced OS labs, Network Technology notes, Cryptology assignments, Certificate-less Data Integrity Checker, Blockchain Vaccine Safety System |
+
+</details>
+
+<details>
+<summary><strong>Experience and activities</strong> (click to expand)</summary>
+
+- Student worker at SCU: Benson Memorial Center, Library Help Desk and Access and Delivery, Athletics Media Services camera operator  
+- ACM BroncoSec weekly meetings and security topics
+
+</details>
+
+
+## Education
+
+- **Santa Clara University**, MS in Computer Science and Engineering, expected Jun 2026  
+  - Courses include Advanced Operating Systems, Machine Learning, Network Technology, Cryptology, Building Global Teams
+- Bachelor’s in Computer Science and Engineering, 2023
+
+
+## Currently
+
+- Building the Chrome Translator Extension MVP and fixing first run issues. Polishing the settings flow and test instructions.
+- Publishing and cleaning repos for Blockchain Vaccine Safety System and Certificate-less Data Integrity Checker. Writing clear READMEs with setup steps and screenshots.
+- Coursework: Network Technology and Cryptology. Completing weekly labs, problem sets, and short writeups.
+- Iterating AI Career Coach with simple section scoring, saved edit suggestions, and basic job filters.
+- Open to internships and co-op roles in software engineering and full stack for Spring or Summer 2026.
+
 
 ## Connect
+
 - [LinkedIn](https://www.linkedin.com/in/wineel/)  
 - [Instagram](https://www.instagram.com/wineel_10_/)  
-- [Facebook](https://www.facebook.com/wineel10)
+- [Facebook](https://www.facebook.com/wineel10)  
 - [X](https://x.com/wineel_10_)
