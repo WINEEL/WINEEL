@@ -57,7 +57,7 @@ MS CS at Santa Clara University. I build practical software across web, systems,
 <details>
 <summary><strong>Experience and activities</strong> (click to expand)</summary>
 
-- Student worker at SCU: Benson Memorial Center, Library Help Desk and Access and Delivery, Athletics Media Services camera operator  
+- Student worker at SCU: Benson Memorial Center, Athletics Media Services camera operator  
 - ACM BroncoSec weekly meetings and security topics
 
 </details>
