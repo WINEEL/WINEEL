@@ -5,6 +5,11 @@ MS CS at Santa Clara University. I build practical software across web, systems,
 
 ## Quick highlights
 
+- **Chrome Built-in AI Challenge 2025:** shipped **Inline Translate (On-page Bubble)**, a Chrome extension that translates selected text in place using Chrome’s on-device Translator API and Language Detector. Private, fast, and works offline after a one-time model download.
+  - Repo: https://github.com/WINEEL/chrome-inline-translate
+  - Demo: https://youtu.be/YPNfX8uR3bM 
+  - Devpost: https://devpost.com/software/inline-translate-on-page-bubble
+
 - NVIDIA Developer Hackathon: built an agentic **AI Career Coach** that parses resumes, critiques strengths and gaps with NVIDIA Nemotron on NIM, fetches live roles through MCP, and runs with one command on FastAPI. Functional demo in under 2 hours.
 - **SmartRecs** hybrid movie recommender using IMDb datasets. TF-IDF content similarity plus SVD collaborative filtering with genre awareness.
 - **QuickBill** and **MyCalc** in C. QuickBill handles CSV product management and billing. MyCalc behaves like a Python REPL with BODMAS, exponentiation, and nested parentheses.
@@ -22,6 +27,10 @@ MS CS at Santa Clara University. I build practical software across web, systems,
 
 ## Featured projects
 
+- **[Inline Translate (On-page Bubble)](https://github.com/WINEEL/chrome-inline-translate)** &rarr; Chrome extension that shows a translation bubble next to your selection using Chrome’s on-device Translator and Language Detector. Private, offline after model download, per-site pause, and Swap/Copy/Replace actions.  
+  - **Demo:** https://youtu.be/YPNfX8uR3bM
+  - **Devpost:** https://devpost.com/software/inline-translate-on-page-bubble
+
 - **[AI Career Coach](https://github.com/SCU-2025-Oct/coach)** &rarr; Agentic resume coach from the NVIDIA hackathon. Parses PDF and DOCX, generates measurable edits with Nemotron on NIM, fetches live roles via MCP, and serves a minimal FastAPI web UI. One command local run via `dev.py`.  
 
 - **[SmartRecs](https://github.com/WINEEL/SmartRecs)** &rarr; Hybrid movie recommender on IMDb datasets. TF-IDF content similarity plus SVD collaborative filtering with genre awareness.  
@@ -34,25 +43,27 @@ MS CS at Santa Clara University. I build practical software across web, systems,
 
 - **[GardenSim](https://github.com/WINEEL/GardenSim)** &rarr; JavaFX garden simulator applying OOADP with weather, seasons, pests, sensors, and survivability tests.  
 
+
 <details>
 <summary><strong>More projects </strong>(click to expand)</summary>
 
 - **Blockchain Vaccine Safety System** &rarr; Blockchain backed vaccine tracking and verification. Repo in progress.  
 - **Certificate-less Data Integrity Checker** &rarr; Web tool for secure group data verification. Repo in progress.  
-- **Chrome Translator Extension** &rarr; Translate selected text with a model download flow and per page language settings. Repo in progress.
 
 </details>
+
 
 <details>
 <summary><strong>Role based project map</strong> (click to expand)</summary>
 
 | Role | Projects |
 | --- | --- |
-| Software Engineering and Full Stack | QuickBill, MyCalc, PIP-Updater, GardenSim, Chrome Translator Extension |
+| Software Engineering and Full Stack | QuickBill, MyCalc, PIP-Updater, GardenSim, Inline Translate (On-page Bubble) |
 | Machine Learning and Data | SmartRecs, AI Career Coach, ML coursework |
 | Systems and Cybersecurity | Advanced OS labs, Network Technology notes, Cryptology assignments, Certificate-less Data Integrity Checker, Blockchain Vaccine Safety System |
 
 </details>
+
 
 <details>
 <summary><strong>Experience and activities</strong> (click to expand)</summary>
@@ -72,10 +83,10 @@ MS CS at Santa Clara University. I build practical software across web, systems,
 
 ## Currently
 
-- Building the Chrome Translator Extension MVP and fixing first run issues. Polishing the settings flow and test instructions.
-- Publishing and cleaning repos for Blockchain Vaccine Safety System and Certificate-less Data Integrity Checker. Writing clear READMEs with setup steps and screenshots.
-- Coursework: Network Technology and Cryptology. Completing weekly labs, problem sets, and short writeups.
-- Iterating AI Career Coach with simple section scoring, saved edit suggestions, and basic job filters.
+- Shipping **Inline Translate** and polishing first-run behavior, settings flow, and docs.  
+- Publishing and cleaning repos for Blockchain Vaccine Safety System and Certificate-less Data Integrity Checker. Writing clear READMEs with setup steps and screenshots.  
+- Coursework: Network Technology and Cryptology. Completing weekly labs, problem sets, and short writeups.  
+- Iterating AI Career Coach with simple section scoring, saved edit suggestions, and basic job filters.  
 - Open to internships and co-op roles in software engineering and full stack for Spring or Summer 2026.
 
 
