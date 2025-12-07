@@ -96,3 +96,4 @@ MS CS at Santa Clara University. I build practical software across web, systems,
 - [Instagram](https://www.instagram.com/wineel_10_/)  
 - [Facebook](https://www.facebook.com/wineel10)  
 - [X](https://x.com/wineel_10_)
+- [Devpost](https://devpost.com/wineel)
