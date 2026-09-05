@@ -51,7 +51,7 @@ MS CS at Santa Clara University. I build practical software across web, systems,
   C-based billing system with admin and biller modules, CSV product management, GST and discounts, and cross-platform Makefile support.
 
 - **[MyCalc](https://github.com/WINEEL/MyCalc)**  
-  C command-line calculator that behaves like a Python REPL with operator precedence and nested expressions.
+  C command-line calculator that evaluates expressions by generating, compiling, and executing C code.
 
 - **[PIP-Updater](https://github.com/WINEEL/PIP-Updater)**  
   Python CLI tool that updates pip packages with clean, readable logs.
